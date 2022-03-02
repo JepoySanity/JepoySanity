@@ -1,9 +1,6 @@
 
-
-
-
-> Relax, you're doing fine
-> that just happened
+-->Relax, you're doing fine
+-->that just happened
 
 **dont overthink it, that's how you survive**
 
