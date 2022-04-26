@@ -27,7 +27,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CPANEL" width="46px" src="https://cdn.worldvectorlogo.com/logos/cpanel.svg" style="padding-right:10px;padding-top:10px" />
+<img align="left" alt="CPANEL" width="46px" src="https://cdn.worldvectorlogo.com/logos/cpanel.svg" style="padding-right:10px;margin-top:20px" />
 <img align="left" alt="XAMPP" width="26px" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" style="padding-right:10px;" />
 <img align="left" alt="LARAGON" width="26px" src="https://cdn.worldvectorlogo.com/logos/laragon.svg" style="padding-right:10px;" />
 <img align="left" alt="POSTMAN" width="26px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" style="padding-right:10px;" />
