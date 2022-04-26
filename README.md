@@ -1,4 +1,4 @@
-# Hi there, I'm John Jefferson Factoran - aka [JEPOY][www.linkedin.com/in/jepoy-factoran] 👋
+# Hi there, I'm JEPOY 👋
 
 ## I'm a Backend Developer!!
 
