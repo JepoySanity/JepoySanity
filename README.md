@@ -1,5 +1,4 @@
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D1610249239079991%26set%3Da.200263666745229&show_text=true&width=500" width="500" height="469" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+![42164670_1610249245746657_4809963892316831744_n](https://user-images.githubusercontent.com/39158843/172087089-59434c81-2e1d-469d-803a-b342b40fcc77.jpg)
 
 # Hi there, I'm JEPOY 👋
 
