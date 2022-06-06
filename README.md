@@ -1,3 +1,6 @@
+![40bf5022f099e7030c11e17e50f4b3da](https://user-images.githubusercontent.com/39158843/172086731-6637c7b0-04c7-44df-a865-3e369f5d634a.png)
+
+
 # Hi there, I'm JEPOY 👋
 
 ## I'm a Backend Developer!!
