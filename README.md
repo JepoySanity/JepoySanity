@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: learn more about frontend development and contribute to open source projects
 - ⚡ Fun fact: I love to play mechanical skill based games like DOTA2 and OSU!
-- 😥 Currently using and rebuilding my contributions on this account since I lost my primary account
+- 😥 Currently rebuilding my contributions on this account since I lost my primary account
 
 ### Connect with me:
 
