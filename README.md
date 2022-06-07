@@ -61,4 +61,5 @@
 </details>
 
 ## "Dont overthink it, that's how you survive"
+![Dino_non-birthday_version](https://user-images.githubusercontent.com/39158843/172274664-7ac9dfc9-fefe-4e2b-96f3-b41f81a19899.gif)
 
