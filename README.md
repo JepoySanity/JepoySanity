@@ -2,7 +2,7 @@
 
 # Hi there, I'm JEPOY 👋
 
-## I'm a Backend Developer!!
+## I'm a Web Developer!!
 
 - 🌱 I’m currently learning JS frameworks 🤣
 - 👯 I’m looking to collaborate with other developers
