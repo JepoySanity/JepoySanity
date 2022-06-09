@@ -12,6 +12,11 @@
 
 ## Education: `Bachelor of Science in Information Technology` 
 
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=JepoySanity&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <br />
+  <br />
 
 ### Connect with me:
 
@@ -23,14 +28,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/jepoystringify/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jepoystringify/#gh-dark-mode-only)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=JepoySanity&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <br />
-  <br />
-</details>
 
 ### Languages and Tools:
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
