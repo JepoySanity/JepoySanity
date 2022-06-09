@@ -11,7 +11,7 @@
 - 😥 Currently rebuilding my contributions on this account since I lost my primary account
 
 ## Education:
-### Bachelor of Science in Information Technology (2015 - 2019)
+`### Bachelor of Science in Information Technology` (2015 - 2019)
 
 ### Connect with me:
 
