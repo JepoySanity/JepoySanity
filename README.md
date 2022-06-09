@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love to play mechanical skill based games like DOTA2 and OSU!
 - 😥 Currently rebuilding my contributions on this account since I lost my primary account
 
-## Education: `Bachelor of Science in Information Technology` 
+`Bachelor of Science in Information Technology` 
 
 ### Connect with me:
 
