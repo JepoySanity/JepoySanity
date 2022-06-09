@@ -6,6 +6,7 @@
 ![42164670_1610249245746657_4809963892316831744_n](https://user-images.githubusercontent.com/39158843/172087193-5da14d5d-899d-4f96-89c4-6ea8011e384a.jpg)
 
 # Hi there, I'm JEPOY 👋
+`Bachelor of Science in Information Technology` 
 
 ## I'm a Web Developer!!
 
@@ -14,8 +15,6 @@
 - 🥅 2022 Goals: learn more about frontend development and contribute to open source projects
 - ⚡ Fun fact: I love to play mechanical skill based games like DOTA2 and OSU!
 - 😥 Currently rebuilding my contributions on this account since I lost my primary account
-
-`Bachelor of Science in Information Technology` 
 
 ### Connect with me:
 
