@@ -19,7 +19,7 @@
 
 ## Education: `Bachelor of Science in Information Technology` 
 
-### Connect with me:
+## Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/JepoyStringify#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/JepoyStringify#gh-dark-mode-only)
@@ -30,7 +30,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/jepoystringify/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jepoystringify/#gh-dark-mode-only)
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CODEIGNITER" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" style="padding-right:10px;" />
