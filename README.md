@@ -22,7 +22,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jepoystringify/#gh-dark-mode-only)
 
 ### Languages and Tools:
-
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CODEIGNITER" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" style="padding-right:10px;" />
@@ -30,6 +30,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CPANEL" width="46px" src="https://cdn.worldvectorlogo.com/logos/cpanel.svg" style="padding-right:10px;margin-top:20px" />
