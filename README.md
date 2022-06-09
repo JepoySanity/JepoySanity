@@ -22,7 +22,6 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jepoystringify/#gh-dark-mode-only)
 
 ### Languages and Tools:
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CODEIGNITER" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" style="padding-right:10px;" />
