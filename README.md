@@ -4,9 +4,9 @@
 </details>
 
 ![42164670_1610249245746657_4809963892316831744_n](https://user-images.githubusercontent.com/39158843/172087193-5da14d5d-899d-4f96-89c4-6ea8011e384a.jpg)
+## `Bachelor of Science in Information Technology` 
 
 # Hi there, I'm JEPOY 👋
-# `Bachelor of Science in Information Technology` 
 
 ## I'm a Web Developer!!
 
