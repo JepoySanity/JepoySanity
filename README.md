@@ -24,6 +24,14 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/jepoystringify/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jepoystringify/#gh-dark-mode-only)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=JepoySanity&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <br />
+  <br />
+</details>
+
 ### Languages and Tools:
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CODEIGNITER" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="padding-right:10px;" />
@@ -54,14 +62,6 @@
 - [Brad Traversy](https://github.com/bradtraversy)
 - [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 - [Dani Krossing](https://www.youtube.com/c/TheCharmefis)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=JepoySanity&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <br />
-  <br />
-</details>
 
 ## "Dont overthink it, that's how you survive"
 ![Dino_non-birthday_version](https://user-images.githubusercontent.com/39158843/172274664-7ac9dfc9-fefe-4e2b-96f3-b41f81a19899.gif)
