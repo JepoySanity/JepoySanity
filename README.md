@@ -1,9 +1,7 @@
-<br />
 <details>
 <summary><h2>:zap: View Github Stats</h2></summary>
 <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=JepoySanity&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
-<br />
 
 ![42164670_1610249245746657_4809963892316831744_n](https://user-images.githubusercontent.com/39158843/172087193-5da14d5d-899d-4f96-89c4-6ea8011e384a.jpg)
 
