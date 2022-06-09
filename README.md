@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I love to play mechanical skill based games like DOTA2 and OSU!
 - 😥 Currently rebuilding my contributions on this account since I lost my primary account
 
+## Education:
+### Bachelor of Science in Information Technology (2015 - 2019)
+
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/JepoyStringify#gh-light-mode-only)
