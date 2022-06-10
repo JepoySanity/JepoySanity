@@ -8,7 +8,7 @@
 
 # Hi there, I'm Jepoy 👋
 
-## I'm a Web Developer!!
+## I'm a Web Developer
 
 - 🌱 I’m currently learning JS frameworks 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -27,7 +27,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/jepoystringify/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jepoystringify/#gh-dark-mode-only)
 
-### Languages and Tools:
+### Stack:
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CODEIGNITER" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" style="padding-right:10px;" />
