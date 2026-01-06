@@ -13,46 +13,9 @@
 - A full-stack web developer experienced in PHP backend development and JavaScript frameworks including React, Angular, and Next.js, with strong adaptability to new technologies.
 
 ### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/JepoyStringify#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/JepoyStringify#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/jepoy-factoran#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/jepoy-factoran#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/jepoystringify/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/jepoystringify/#gh-dark-mode-only)
 
-### My Stack:
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CODEIGNITER" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CPANEL" width="46px" src="https://cdn.worldvectorlogo.com/logos/cpanel.svg" style="padding-right:10px;margin-top:20px" />
-<img align="left" alt="XAMPP" width="26px" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" style="padding-right:10px;" />
-<img align="left" alt="LARAGON" width="26px" src="https://cdn.worldvectorlogo.com/logos/laragon.svg" style="padding-right:10px;" />
-<img align="left" alt="POSTMAN" width="26px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg/#gh-light-mode-only" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg/#gh-dark-mode-only" />
-
-<br />
-<br />
-
----
-
-### 📺 Instructors that I follow
-
-- [Brad Traversy](https://github.com/bradtraversy)
-- [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
-- [Dani Krossing](https://www.youtube.com/c/TheCharmefis)
 
 ## "Dont overthink it, that's how you survive"
 ![Dino_non-birthday_version](https://user-images.githubusercontent.com/39158843/172274664-7ac9dfc9-fefe-4e2b-96f3-b41f81a19899.gif)
