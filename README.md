@@ -10,10 +10,7 @@
 
 ## I'm a Web Developer
 
-- 🌱 I’m currently learning JS frameworks 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: learn more about frontend development and contribute to open source projects
-- 😥 Currently rebuilding my contributions on this account since I lost my primary account
+- A full-stack web developer experienced in PHP backend development and JavaScript frameworks including React, Angular, and Next.js, with strong adaptability to new technologies.
 
 ### Connect with me:
 
