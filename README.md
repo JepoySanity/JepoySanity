@@ -5,7 +5,8 @@
 - A Full-stack Web Developer with over 6years of professional working experience in building and maintaining web applications
 across various projects and industry. Assigned onsite in Japan for a year to directly collaborate with clients
 using both Japanese and English, experienced in Modern Javascript frameworks/libraries such as React, Vue, Angular, and Next.
-I also have a solid skills in backend development using PHP frameworks such as Larave and Codeigniter.
+I also have a solid skills in backend development using PHP frameworks such as Laravel and Codeigniter and also building 
+scalable backend APIs using Node and Express.
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/jepoy-factoran#gh-light-mode-only)
