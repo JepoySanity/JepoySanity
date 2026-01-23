@@ -12,6 +12,6 @@
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/jepoy-factoran#gh-dark-mode-only)
 
 
-## "Dont overthink it, that's how you survive"
+## “I may not fully understand this yet, but I’ll figure it out.”
 ![Dino_non-birthday_version](https://user-images.githubusercontent.com/39158843/172274664-7ac9dfc9-fefe-4e2b-96f3-b41f81a19899.gif)
 
