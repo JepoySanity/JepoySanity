@@ -1,4 +1,4 @@
-### This is one of my favorite sceneries that I captured while working as an Application Developer in Japan.
+### My favorite scenery, captured while working as an Application Developer in Japan.
 *Sapporo, Hokkaido, Japan — Jan 14, 2025*
 ![Sapporo](img/IMG_5641.JPG)
 
