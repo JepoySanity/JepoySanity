@@ -1,4 +1,4 @@
-![42164670_1610249245746657_4809963892316831744_n](https://drive.google.com/file/d/1NW7gHW3FKUPrWw5ob5DIZKWcshh86qFU/view?usp=sharing)
+![Sapporo](img/IMG_5641.jpg)
 # Hi there, I'm Jepoy 👋
 
 ## Career summary:
