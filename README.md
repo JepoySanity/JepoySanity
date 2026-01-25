@@ -8,6 +8,10 @@ using both Japanese and English, experienced in Modern Javascript frameworks/lib
 I also have a solid skills in backend development using PHP frameworks such as Laravel and Codeigniter and also building 
 scalable backend APIs using Node and Express.
 
+- From 2023 to the present, I have been working as a full-time Full Stack Web Developer, building enterprise-level solutions.
+Most of my contributions during this period were developed for client-managed systems and are not publicly disclosable due to confidentiality,
+and all repositories I have worked on are not permitted to be shared or accessed.
+
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/jepoy-factoran#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/jepoy-factoran#gh-dark-mode-only)
