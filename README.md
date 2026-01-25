@@ -1,4 +1,4 @@
-![Sapporo](img/IMG_5641.jpg)
+![Sapporo](img/IMG_5641.JPG)
 # Hi there, I'm Jepoy 👋
 
 ## Career summary:
