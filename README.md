@@ -1,4 +1,6 @@
+## This is one of my favorite sceneries that I captured while working as an Application Developer in Japan.
 ![Sapporo](img/IMG_5641.JPG)
+
 # Hi there, I'm Jepoy 👋
 
 ## Career summary:
