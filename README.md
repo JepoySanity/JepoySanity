@@ -15,9 +15,6 @@ scalable backend APIs using Node and Express.
 Most of my contributions during this period were developed for client-managed systems and are not publicly disclosable due to confidentiality,
 and all repositories I have worked on are not permitted to be shared or accessed.
 
-### Connect with me:
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/jepoy-factoran)
-
 
 ## “I may not fully understand this yet, but I’ll figure it out.”
 ![Dino_non-birthday_version](https://user-images.githubusercontent.com/39158843/172274664-7ac9dfc9-fefe-4e2b-96f3-b41f81a19899.gif)
