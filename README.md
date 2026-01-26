@@ -16,8 +16,7 @@ Most of my contributions during this period were developed for client-managed sy
 and all repositories I have worked on are not permitted to be shared or accessed.
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/jepoy-factoran#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/jepoy-factoran#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/jepoy-factoran)
 
 
 ## “I may not fully understand this yet, but I’ll figure it out.”
